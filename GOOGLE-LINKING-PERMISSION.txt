@@ -1,0 +1,18 @@
+Additional permission under GNU GPL version 3 section 7
+
+For original Resonance application code whose copyright holders authorize this
+permission, you may link or combine that code with Google's Google Play Billing
+Library, Google Mobile Ads SDK and User Messaging Platform SDK, including their
+required Google runtime dependencies, and convey the resulting combination.
+Those Google components remain subject to their own licence terms. This
+permission does not grant any rights in Google's code or trademarks.
+
+The GPL-3.0-or-later obligations for the covered original application code remain
+in force. This permission does not apply to third-party code, independently
+distributed command-line programs, or any component whose copyright holders
+have not granted it. Preserve all applicable third-party notices and sources.
+
+The publisher authorized this permission for the original application code on
+3 October 2026. It is not permission to link third-party GPL libraries to Google
+SDKs and is not a certification that any particular assembled APK complies.
+
